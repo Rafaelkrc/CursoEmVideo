@@ -1,0 +1,1 @@
+from CursoEmVideo.ex112.utilidadescev import dado
